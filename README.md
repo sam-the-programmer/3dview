@@ -24,7 +24,7 @@ python main.py
 
 ### UI
 - Adjust parameters in the UI. Toggle with the blue button.
+- Choose custom files. Accepts `.bam`, `.ursinamesh`, `.obj`, `.glb`, `.gltf` and `.blend` files.
 
 ### In Development
-- Loading of custom Blender files for 3D viewing.
 - Apple-Vision-Pro-style hand-gestures for moving and turning the object.

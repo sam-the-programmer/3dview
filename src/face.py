@@ -1,5 +1,5 @@
 import mediapipe as mp
-from .settinsg import MODEL_PATH
+from .settings import MODEL_PATH
 
 BaseOptions = mp.tasks.BaseOptions
 FaceDetector = mp.tasks.vision.FaceDetector
