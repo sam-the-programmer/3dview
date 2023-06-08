@@ -6,7 +6,7 @@ from .settings import *
 
 app = Ursina()
 
-BLENDER_FILE = "mod.blend"
+BLENDER_FILE = "models_compressed/mod.obj"
 SCALE = 1
 
 base_model = Entity(
