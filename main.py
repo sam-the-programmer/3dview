@@ -1,3 +1,4 @@
+print("Running")
 import math
 
 import cv2
@@ -8,7 +9,7 @@ from src.settings import *
 from src.engine import *
 from src.face import *
 
-
+print("Running")
 def get_component(
     x, depth: int = 3, cam_dist: int = 2
 ):  # should work for vertical and horizontal components
